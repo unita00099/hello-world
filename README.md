@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Hello My name is Pattarawadee 
+My nickname is pooh!
